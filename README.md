@@ -1,7 +1,7 @@
 # Text Analytics
 Projects & assignments for text analytics class (Fall 2018)
 
-#### Assignments:
+### Assignments:
 
 **Assignment 1**
 * Named Entity recognizer: the objective of this assignment was to identify named entities such as dates and major US holidays using regex
